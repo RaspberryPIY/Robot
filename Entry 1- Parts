@@ -1,0 +1,24 @@
+# Entry 1- Parts
+ 
+ What you will need:
+
+x1 Raspberry Pi 4B
+x1 USB HD webcam
+x2 geared motors (make sure you don't have to solder!)
+x2 wheels
+x1 L298N Bridge motor controller board
+x1 PACK of jumper wires (male ==> male, male ==> female, female ==> female)
+x1 chassis (3d printed, DIY or store bought)
+x1 caster wheel (make sure the surface of the caster wheel is smooth!!)
+x1 battery pack for 4 AA batteries
+x1 power bank with usb-b to usb-c cord (for Raspberry Pi)
+x1 Windows or Mac computer to connect via VNC
+x1 strong WiFi connection
+Python (the programming software NOT the reptile!!)
+
+ Optional:
+
+x1 dowel
+x1 paper
+x1 USB hub
+ 
